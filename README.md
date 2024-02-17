@@ -1,2 +1,2 @@
-"# data_analysis" 
-In the field of hydrogen fuel cells, this project uses machine learning to increase the efficiency of catalysts required for moisture decomposition.
+### ML & Data anaylsis
+In the field of hydrogen fuel cells, this project uses machine learning to increase the efficiency of catalysts required for moisture decomposition. Specifically, through Bayesian optimization such as GR regression, the moisture decomposition efficiency according to the contents of the six catalysts should be analyzed under specific conditions (in this study, the sum of the contents of the six catalysts should be 0.9), and the optimum result is derived as the shortest distance.
